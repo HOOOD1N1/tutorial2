@@ -10,3 +10,4 @@ git checkout commit no.(inceputul no.)-- file.txt -luam un file din repo si il b
 git remote add (nume repo) (adresa repo)- pentru a lega git de github
 git remote- iti arata nume repo
 git push- baga un file in server pe github
+git pull --rebase= schimba fisierul pentru aia
