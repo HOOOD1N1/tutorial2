@@ -1,0 +1,12 @@
+git mv file1.txt file2.txt- asta este cum poti da rename
+git rm file1.txt- stergi file
+git diff- diferenta dintre file-ul local si pe repo
+git diff --staged- diff dintre file-ul adaugat si repo
+git mv file1.txt Folder1/file2.txt- muti file in folder cu un alt nume
+git commit -am= dai commit fara add, dar adauga toate file-urile din folder
+git checkout -- file = ia un file din repo si il inlocuieste pe cel din working directory
+git reset HEAD file.txt-elimina un file din staging area(zona dupa add .)
+git checkout commit no.(inceputul no.)-- file.txt -luam un file din repo si il bagam in file-ul local.
+git remote add (nume repo) (adresa repo)- pentru a lega git de github
+git remote- iti arata nume repo
+git push- baga un file in server pe github
